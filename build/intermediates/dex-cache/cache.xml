@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hoon\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-ad665176b309b33c99ca4568ae4e7b578390cdfc.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-2f1e75087af661febf911c9cc956d748fdaaa2ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7cb8f70e66bdc25ee66ab8351a4e7214b6517aa8">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-80e89db3b17c2f02b5535e8c4f9a95e021683bf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-44c812e8b25f59cc2ae56c979ba3e65d7f89581c.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-5750a9f9684f038b359caf578b4f698e34f81b4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-08d56481e12cf9a889a696290c5b2a61aac9d540.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-b1f885f0e0f765a73870e0a55b8f1641bb69a3f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-fe84ca49a8e2689a3611029e442588d4f653d700.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-0f730a4a1777e894b07582376eb345f5228c4974.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-c43e884fef5f2885654c9037dc1955cca4d24d23.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0-91eb1aeb589672eb760830a2fdd84aac8c79f8eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\hoon\androidSampleProjects\HookYouUp\HookYouUp\app\build\intermediates\pre-dexed\debug\classes-294452d8691b1f332aedb3c1f152f6349f021bc2.jar" />
+    </item>
+
+</items>

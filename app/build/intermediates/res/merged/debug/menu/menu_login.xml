@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.hoon.hookyouup.activity.MainActivity">
+    // Replace with your package name
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu><!-- From: file:/C:/Users/hoon/androidSampleProjects/HookYouUp/HookYouUp/app/src/main/res/menu/menu_login.xml -->
